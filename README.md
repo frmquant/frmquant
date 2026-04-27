@@ -223,7 +223,7 @@ My **1,067+ contributions** on GitHub demonstrate consistent, active development
 ## Connect With Me
 
 - 🌐 **Website:** [frmquant.com](https://www.frmquant.com)
-- 💼 **LinkedIn:** [Birtukan M Ayalew](https://linkedin.com/in/birtukan-ayalew)
+- 💼 **LinkedIn:** [www.linkedin.com/in/birtukan-m-ayalew-861112a1
 - 
 
 ---
