@@ -13,7 +13,7 @@ My unique combination of legal training (LLM in Business Law) and technical exec
 
 **Location:** Santa Clara, California  
 **Website:** [frmquant.com](https://www.frmquant.com)  
-**LinkedIn:** [linkedin.com/in/birtukan-ayalew](https://linkedin.com/in/birtukan-ayalew)
+**LinkedIn:**www.linkedin.com/in/birtukan-m-ayalew-861112a1
 
 ---
 
@@ -22,7 +22,7 @@ My unique combination of legal training (LLM in Business Law) and technical exec
 ### 🏦 FRMQuant - Portfolio Risk Analytics
 **Professional-grade portfolio risk management platform for investors, advisors, and financial firms**
 
-**Live Platform:** [frmquant.com](https://www.frmquant.com)
+**Live Platform:** [frmquant.com] (https://www.frmquant.com)
 
 #### Features
 - **Value at Risk (VaR)** - Multiple methodologies (Historical, Parametric, Monte Carlo)
