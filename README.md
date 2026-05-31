@@ -1,7 +1,7 @@
 # Birtukan M Ayalew
 **Technical Founder | Business Law Scholar | Full-Stack Developer**
 
-> Building at the intersection of law, technology, and purpose
+> Building at the intersection of law, technology,financial technology  and purpose
 
 ---
 
@@ -237,7 +237,7 @@ My **1,067+ contributions** on GitHub demonstrate consistent, active development
 
 ---
 
-*Currently seeking opportunities in AI product development, fintech partnerships, technical sales, and roles combining legal expertise with technical execution.*
+*Currently  working on legal technology in relation to AI  product development, fintech partnerships, portofolio managment, and roles combining legal expertise with technical execution.*
 
 **Last updated:** April 2026## Hi there 👋
 
