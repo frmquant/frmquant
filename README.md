@@ -88,7 +88,7 @@ An AI morning-briefing agent for traders, built on Meta's Muse Spark for the Met
 ### 💪 ActiveUp — Smart Workout Tracking
 The fitness app that tells you exactly what to do every workout — so you stop planning and start lifting. Pre-built progressive programs, smart auto-progression, one-tap logging.
 
-**Website:** [activeup.app](https://activeup.app) · **Download:** iOS App Store · ⭐ 4.9/5 · 1,000+ active users
+**Website:** [activeup.app](https://activeup.app) · **Download:** iOS App Store ·  
 
 **Features**
 - 72-session periodized programs — fat loss, complete beginner, muscular endurance, powerlifting, balanced development, or a custom-built plan
