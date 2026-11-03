@@ -18,32 +18,35 @@ My legal training (LL.M. in Business Law) is the foundation, not the headline �
 
 ## Current Projects
 
-### 🏦 FRMQuant — Institutional-Grade Quantitative Risk Analytics
-Hedge-fund risk models — Monte Carlo, factor decomposition, stress testing — built for every investor. The same quantitative mathematics used in institutional risk departments, not another portfolio tracker.
+### 🏦 FRMQuant — Institutional Portfolio Analytics
+**70+ institutional-grade quantitative tools** in one platform — the risk models used on hedge-fund and trading desks, built for RIAs, family offices, and serious individual investors. Not another portfolio tracker.
 
-**This is rigorous mathematics, not AI.** Every model is grounded in peer-reviewed financial research and runs on custom quantitative calculation engines — the formulas, assumptions, and data sources are all shown, no black boxes. (AI is used only for optional plain-language report summaries; the risk math itself is deterministic and transparent.)
+**This is rigorous mathematics, not AI.** Every model is grounded in peer-reviewed financial research and runs on deterministic, transparent calculation engines — the formulas, assumptions, and data sources are all shown, no black boxes. (An optional AI assistant adds plain-language insights, but the quant math stands entirely on its own.)
 
-**Live Platform:** [frmquant.com](https://www.frmquant.com) · 15+ risk models · 50+ analytics tools · live market data · SOC 2-compliant infrastructure
+**Live Platform:** [frmquant.com](https://www.frmquant.com) · 70+ tools · live market data (Polygon.io) · free tools, no account · SOC 2-compliant infrastructure
 
-**Quantitative Models**
-- Monte Carlo VaR — 10,000+ simulation paths for tail risk
-- Parametric VaR — Gaussian & Student-t distributions
-- Historical VaR — rolling-window empirical analysis
-- CVaR / Expected Shortfall — beyond-VaR tail-risk measurement
-- Factor Decomposition — Fama-French, momentum, and quality factors
-- Correlation Analysis — dynamic correlation matrices and heatmaps
+**Risk & Quant Models**
+- Value at Risk — Parametric, Historical, Monte Carlo, and Liquidity-Adjusted
+- EVT tail risk — Peaks-Over-Threshold / Generalized Pareto
+- CDaR — Conditional Drawdown at Risk
+- Copula tail-dependence modeling
+- Sharpe confidence intervals — Probabilistic & Deflated Sharpe (PSR/DSR)
+- Hierarchical Risk Parity (HRP) & Black-Litterman allocation
+- Factor decomposition — Fama-French, momentum, and quality
 
 **Analytics Suite**
-- Stress testing (2008, COVID, custom scenarios), backtesting, portfolio optimization (efficient frontier, Sharpe max), what-if / trade-impact analysis, drawdown & recovery, tracking error, tax-loss harvesting, transaction-cost analysis, multi-asset coverage (stocks, ETFs, crypto, options), custom risk alerts, and AI-generated reports (GPT-4)
+- Stress testing (2008, COVID, tech bubble, custom), backtesting, portfolio optimization (efficient frontier, Sharpe max, rebalancing, what-if), correlation & drawdown analysis, transaction-cost/fee analysis, multi-asset coverage (stocks, ETFs, crypto)
+- **Tax Center** — lot tracking (FIFO/LIFO/HIFO), wash-sale detection, one-click Form 8949 export
+- **Free tools (no account):** Market Risk Today, Correlation Checker, Cost Calculator
 
 **Enterprise:** SSO (SAML, OAuth, Microsoft & Google) · role-based team management · audit logs · RESTful API
 
-**Tech Stack:** React, TypeScript · Node.js, Firebase · Google Cloud Platform · Polygon.io market data · GPT-4 (report generation)
+**Tech Stack:** React, TypeScript · Node.js, Firebase · Google Cloud Platform · Polygon.io market data · optional AI assistant (Claude)
 
-**Business Model:** Professional $49/mo · Advisor $149/mo · Enterprise $999/mo
+**Business Model:** Professional $49/mo · Advisor $149/mo · Enterprise $999/mo · 7-day free trial
 **Status:** Live in production with active paying customers
 
-**Why I Built This:** Institutional investors have always had sophisticated risk tools — Bloomberg, FactSet, Axioma — but they cost $20,000–$50,000 a year. Every serious investor deserves real quantitative analysis, not just pretty charts. FRMQuant brings hedge-fund-level risk management to the browser at a fraction of the cost, with transparent methodology and no black boxes — every formula, assumption, and data source is visible. My background in securities law and compliance ensures it's built to meet SEC and FINRA expectations.
+**Why I Built This:** Institutional investors have always had sophisticated risk tools — Bloomberg, FactSet, Axioma — but they cost $20,000–$50,000 a year. Every serious investor deserves real quantitative analysis, not just pretty charts. FRMQuant brings 70+ hedge-fund-grade tools to the browser at a fraction of the cost, with transparent methodology and no black boxes. My background in securities law and compliance ensures it meets SEC and FINRA expectations.
 
 ### 🛡️ ComplianceOS — Multi-Framework Compliance Platform
 Full-stack compliance automation that gets startups audit-ready in weeks, not months — across SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, NIST CSF, and CCPA.
@@ -142,7 +145,7 @@ This legal foundation makes me uniquely valuable in roles requiring both technic
 
 **Languages & Frameworks:** JavaScript, TypeScript, React, Next.js · Swift, SwiftUI (iOS native) · Node.js, Python · Firebase, SQL, Supabase (PostgreSQL)
 **Cloud & Infrastructure:** Google Cloud Platform, Firebase, Supabase, CI/CD pipelines, production deployment & scaling
-**AI & Machine Learning:** GPT-4 (report generation in FRMQuant), Meta Model API / Muse Spark — reasoning, web-search grounding, and vision (SignalDesk), prompt engineering for financial and compliance analysis
+**AI & Machine Learning:** Claude (optional AI assistant in FRMQuant), Meta Model API / Muse Spark — reasoning, web-search grounding, and vision (SignalDesk), prompt engineering for financial and compliance analysis
 **Domain Expertise:** Fintech & quantitative finance · Security & privacy compliance (SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, NIST CSF, CCPA) · Regulatory compliance (SEC, FINRA) · Mobile development (iOS)
 **Development Practices:** Full-stack product development (0 to 1), agile/iterative development, user research, production operations and monitoring
 
@@ -201,7 +204,7 @@ The source code for FRMQuant, ComplianceOS, ActiveUp, and Thy Word Lamp is kept 
 
 **Products Live:** 4 (FRMQuant, ComplianceOS, ActiveUp, Thy Word Lamp)
 **Users Served:** Active customers across financial services and startup compliance
-**Tech Stack Breadth:** Web (React/Next.js/TypeScript) + Mobile (iOS/Swift) + Quant (Monte Carlo, factor models) + AI (GPT-4 / Meta Muse Spark)
+**Tech Stack Breadth:** Web (React/Next.js/TypeScript) + Mobile (iOS/Swift) + Quant (VaR, EVT, HRP, Black-Litterman) + AI (Claude / Meta Muse Spark)
 
 *(My contribution graph above reflects day-to-day development activity.)*
 
