@@ -71,19 +71,6 @@ Full-stack compliance automation that gets startups audit-ready in weeks, not mo
 
 **Why I Built This — compliance shouldn't cost you your runway.** I didn't set out to build a compliance company; I was building my own products. When enterprise customers and partners started requiring SOC 2 and other certifications, I hit the wall that stops so many founders cold: getting audit-ready traditionally means tens of thousands in tooling, consultants, and hidden fees — before you've closed a single deal that requires it. The most capable teams miss opportunities not because their security is weak, but because they can't afford to *document* that it's strong. That's backwards. So I built the tool I needed for my own products and opened it to every founder facing the same wall — a flat subscription, no hidden fees, with the controls, evidence, and policies **you own** and hand straight to your own auditor. My LL.M. in Business Law and compliance background let me ground all 450+ controls in their public source, so it's audit-grade, not guesswork. Compliance should be a starting cost, not a scaling reward.
 
-### 📡 SignalDesk — AI Morning Briefing for Traders
-An AI morning-briefing agent for traders, built on Meta's Muse Spark for the Meta Global AI Developer Hackathon.
-
-**Repository:** [github.com/frmquant/signaldesk](https://github.com/frmquant/signaldesk)
-
-**Features**
-- Runs the universal trader morning ritual — key levels, event windows, and an if/then game plan — on any instrument (stocks, futures, FX, crypto)
-- Live data and today's economic calendar via Muse Spark web-search grounding, with source citations to verify every number
-- Chart reading via Muse Spark vision (multimodal)
-- Honest by design — marks unknown data "n/a" instead of fabricating it
-
-**Tech Stack:** Single-page HTML/CSS/JS · Meta Model API (Muse Spark, grounding, vision)
-**Status:** Built during the Meta Global AI Developer Hackathon (2026)
 
 ### 💪 ActiveUp — Smart Workout Tracking
 The fitness app that tells you exactly what to do every workout — so you stop planning and start lifting. Pre-built progressive programs, smart auto-progression, one-tap logging.
